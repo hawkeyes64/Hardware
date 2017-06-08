@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Arducopter Controller</string>
+    <string name="str_tv_PairedDevices">Paired devices</string>
+</resources>
